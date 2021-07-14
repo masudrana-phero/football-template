@@ -1,0 +1,56 @@
+@media only screen and (min-width:200px) and (max-width:480px){
+    .copa_america { width: 100%;}
+    .copa_america h1 {
+        font-size: 42px;
+    }
+    .copa_america_image {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .copa_america_image img {
+        width: 343px;
+        height: auto;    
+    }
+
+    .player {
+        width: 100%;
+    }
+    .highlight_description {
+        width: 100%;
+    }
+    .highlight_description h1 {
+        font-size: 27px;
+    }
+    .highlight_img {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .highlight_img img {
+        width: 339px;
+        height: auto;
+    }
+    .highlight_img img {
+        width: 339px;
+        height: auto;
+    }
+    .social_area {
+        width: 100%;
+        text-align: left;
+    }
+    #footer h2 {
+        text-align: left;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
